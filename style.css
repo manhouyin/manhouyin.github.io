@@ -1,0 +1,69 @@
+body{
+    background: blue;
+}
+.entry_body{
+     background: green;
+}
+
+.top_div{
+    background-color: green;
+    text-align: center;
+    color: white;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+.top_heading{
+    text-align: center;
+    color: white;
+    font-size: 400%;
+}
+
+.border{
+    background-color: blue;
+    text-align: center;
+    padding-top: .5%;
+    padding-bottom: .5%;
+    color: black;
+}
+.bio_div{
+    background-color: green;
+    color: white;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+.journal_div{
+    background-color: green;
+    color: white;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+
+
+.text_p{
+    margin-left: 20%;
+    margin-right: 20%;
+    
+}
+
+
+
+h1 {
+    color: black;
+  
+}
+h2{
+    text-align: center;
+}
+
+p{
+    color: white;
+    font-size: 150%; 
+}
+
+.h1 {
+    color: white;
+  
+}
